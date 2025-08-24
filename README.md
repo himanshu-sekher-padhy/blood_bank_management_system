@@ -21,4 +21,3 @@ A web-based application to manage blood donations, donors, recipients, and inven
 - Advanced Reporting  
 
 ---
-💡 *Built to simplify and digitalize blood bank operations.*
